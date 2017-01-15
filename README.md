@@ -1,3 +1,5 @@
+Clean backup of forked repository for reference and restoration. Forked on 15 Jan 2017.
+
 Solid. A Bootstrap theme for Jekyll.
 ============
 ![Screenshot](https://st4ple.github.io/solid-jekyll/assets/img/browser.png)
